@@ -1,0 +1,12 @@
+[submodule "Amogh/A1"]
+	path = Amogh/A1
+	url = https://github.com/solaxien/A1.git
+[submodule "Amogh/A2"]
+	path = Amogh/A2
+	url = https://github.com/solaxien/A2.git
+[submodule "Amogh/A3"]
+	path = Amogh/A3
+	url = https://github.com/solaxien/A3.git
+[submodule "Amogh/A4"]
+	path = Amogh/A4
+	url = https://github.com/solaxien/A4.git
