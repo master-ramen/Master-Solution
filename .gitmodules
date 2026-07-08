@@ -22,3 +22,15 @@
 [submodule "NewFolder2/ConsoleApp4"]
 	path = NewFolder2/ConsoleApp4
 	url = https://github.com/Dikshith334/Dikshith-app4.git
+[submodule "Amit/WebApp1"]
+	path = Amit/WebApp1
+	url = https://github.com/Amitnaik003/WebApp1.git
+[submodule "Amit/WebApp2"]
+	path = Amit/WebApp2
+	url = https://github.com/Amitnaik003/Webapp2.git
+[submodule "Amit/WebApp3"]
+	path = Amit/WebApp3
+	url = https://github.com/Amitnaik003/Webapp3.git
+[submodule "Amit/WebApp4"]
+	path = Amit/WebApp4
+	url = https://github.com/Amitnaik003/Webapp4.git
