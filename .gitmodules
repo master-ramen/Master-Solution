@@ -10,3 +10,15 @@
 [submodule "Amogh/A4"]
 	path = Amogh/A4
 	url = https://github.com/solaxien/A4.git
+[submodule "NewFolder1/ConsoleApp1"]
+	path = NewFolder1/ConsoleApp1
+	url = https://github.com/Dikshith334/Dikshith-app1.git
+[submodule "NewFolder1/ConsoleApp2"]
+	path = NewFolder1/ConsoleApp2
+	url = https://github.com/Dikshith334/Dikshith-app2.git
+[submodule "NewFolder2/ConsoleApp3"]
+	path = NewFolder2/ConsoleApp3
+	url = https://github.com/Dikshith334/Dikshith-app3.git
+[submodule "NewFolder2/ConsoleApp4"]
+	path = NewFolder2/ConsoleApp4
+	url = https://github.com/Dikshith334/Dikshith-app4.git
